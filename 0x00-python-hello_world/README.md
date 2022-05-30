@@ -18,4 +18,9 @@ Learning Objectives
 
 The Python file name will be saved in the environment variable $PYFILE
 
-> [Solution: 0-run]
+> [Solution: 0-run](https://github.com/TheEmerald001/alx-higher_level_programming/blob/main/0x00-python-hello_world/0-run)
+## Run inline
+1. Write a Shell script that runs Python code.
+
+The Python code will be saved in the environment variable $PYCODE
+> [solution: 1-run_inline](https://github.com/TheEmerald001/alx-higher_level_programming/blob/main/0x00-python-hello_world/1-run_inline)
