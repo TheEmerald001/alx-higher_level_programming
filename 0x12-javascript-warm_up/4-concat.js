@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/node
 
 function Concatenate () {
   const arg1 = process.argv[2];
