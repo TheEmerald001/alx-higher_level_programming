@@ -9,7 +9,7 @@ if (side) {
     }
 
     if (j === side) {
-      console.log(' ');
+      console.log('');
     }
   }
 } else {
