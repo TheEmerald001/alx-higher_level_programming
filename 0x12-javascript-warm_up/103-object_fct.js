@@ -4,10 +4,10 @@ const myObject = {
   value: 12
 };
 console.log(myObject);
-//increment function that adds 1 to the value field of the object
+// increment function that adds 1 to the value field of the object
 
-myObject.incr = function incr(){
-  myObject.value ++;
+myObject.incr = function incr () {
+  myObject.value++;
 };
 myObject.incr();
 console.log(myObject);
